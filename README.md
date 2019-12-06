@@ -1,7 +1,9 @@
-# HelloWorld
-The first Learn.
+//# HelloWorld
+//The first Learn.
+#include <stdlib.h>
 int main()
-{...hhaha
+{
+  //hhaha
   printf("Hello World!");
-
-what's this.
+}
+//what's this.
