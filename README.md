@@ -1,4 +1,4 @@
-//# HelloWorld
+
 //The first Learn.
 #include <stdlib.h>
 int main()
